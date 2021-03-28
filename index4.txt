@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Селекторы</title>
+        <link rel="icon" href="/Users/alisa/Desktop/cssref/assets/img/browser_cr.ico" type="image/x-icon">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="/Users/alisa/Desktop/HTML/index4.css" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Della+Respira&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="d1" class="first">
+        </div>
+        <div id="d2" class="first">
+        </div>
+        <div id="d3" class="second">
+        </div>
+        <div id="d4" class="first">
+        </div>
+        <div id="d5" class="second">
+        </div>
+        <div id="d6" class="second">
+        </div>
+            <img id="d7" src="/Users/alisa/Desktop/cssref/assets/images/css/css_border-image-1.png">
+            <p id="d8"><a href="#" class="link">Lorem</a> ipsum dolor sit amet consectetur adipisicing elit. Eos corporis rerum ratione, quibusdam facere ex corrupti facilis ullam placeat quidem ducimus quasi at cupiditate tempore. Neque alias in unde quae.</p>
+    </body>
+</html>
